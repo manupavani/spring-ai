@@ -2,7 +2,7 @@
 
 A minimal chatbot with:
 
-- Java 21
+- Java 17
 - Spring Boot
 - Maven
 - Simple HTML/JavaScript UI
@@ -20,12 +20,6 @@ $env:OPENAI_API_KEY="your-api-key"
 
 ```cmd
 set OPENAI_API_KEY=your-api-key
-```
-
-### Linux / macOS
-
-```bash
-export OPENAI_API_KEY="your-api-key"
 ```
 
 ## 2. Start the application
